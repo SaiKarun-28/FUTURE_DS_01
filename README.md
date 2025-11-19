@@ -68,7 +68,7 @@ To open and interact with this dashboard, you must have:
 
 ---
 
-## Screenshots / Demos
+## Screenshots / Demo
 Example: https://github.com/SaiKarun-28/FUTURE_DS_01/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 ---
