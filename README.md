@@ -46,8 +46,8 @@ The following primary measures are calculated and displayed throughout the dashb
 | **Total Sales** | Sum of sales revenue across all orders is 2.30M. |
 | **Total Profit** | Sum of profit generated across all orders 286.40K. |
 | **Total Discount** | The Sum of Discount applied is 1.56K. |
-| ** Highest sales ** | West region contributes the largest share of profit, accounting for 37.86% ($108.42K) of the total profit. |
-| ** Peak ** | A major peak in sales, exceeding $100K, occurred in the latter half of 2014. |
+| **Highest sales** | West region contributes the largest share of profit, accounting for 37.86% ($108.42K) of the total profit. |
+| **Peak** | A major peak in sales, exceeding $100K, occurred in the latter half of 2014. |
 
 ---
 
@@ -75,5 +75,3 @@ To open and interact with this dashboard, you must have:
 Example: 
 
 ---
-
-## Business insights
