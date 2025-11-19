@@ -15,10 +15,7 @@ The dashboard provides key insights into revenue, profit, and order metrics segm
 * **Time-Series Trends:** Analyze monthly, quarterly, and annual sales and profit trends.
 * **Visualization Variety:** Includes diverse visual elements such as a generated image and charts, allowing for clear data representation.
 
-
-
-[Image of a Power BI sales dashboard showing key KPIs, regional map, and trend charts]
-
+https://github.com/SaiKarun-28/FUTURE_DS_01/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 ---
 
@@ -72,6 +69,6 @@ To open and interact with this dashboard, you must have:
 ---
 
 ## Screenshots / Demos
-Example: 
+Example: https://github.com/SaiKarun-28/FUTURE_DS_01/blob/main/Snapshot%20of%20the%20Dashboard.png
 
 ---
