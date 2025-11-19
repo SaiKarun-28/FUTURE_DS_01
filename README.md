@@ -22,7 +22,7 @@ https://github.com/SaiKarun-28/FUTURE_DS_01/blob/main/Snapshot%20of%20the%20Dash
 ## 📊 Data Source
 
 The dashboard utilizes the popular **Superstore** dataset, which was **downloaded from Kaggle**. This dataset contains sales transaction information across a large product catalog and customer base.
-https://www.kaggle.com/datasets/mohamed38/superstoredataset
+https://www.kaggle.com/datasets/karunimiddisetty/superstore-sales
 
 The Power BI file likely contains the following tables (or similar):
 
